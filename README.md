@@ -1,4 +1,4 @@
-# MedView3D: Multi-Planar Medical Image Viewer & AI Exploration Platform
+# VoxelMed: Multi-Planar Medical Image Viewer & AI Exploration Platform
 
 Developed as part of the **"AI for Real-World Response" Hackathon (Track 1 - Medical Sector)** by Anas, Zyad, Hassan, and Nada.
 
